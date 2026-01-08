@@ -1,3 +1,8 @@
 milk
+<<<<<<< HEAD
 3 eggs 
 flour de avena
+=======
+only 1 egg or 2
+flour and apple
+>>>>>>> main
